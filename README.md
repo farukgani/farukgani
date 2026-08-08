@@ -43,31 +43,31 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 
 ##  Featured Projects
 
-###  Online Food Delivery Analytics
-**SQL + Power BI**
+###  Online Food Delivery Analytics | SQL + Power BI
 
+**Project Link:**https://github.com/farukgani/Online-Food-Sales-Analysis-Dashboard.git
 * Analyzed customers, restaurants, orders, dishes, ratings, and locations
 * Created interactive dashboards with KPIs and performance metrics
 * Used SQL for data extraction and analysis
 * Built DAX measures for business insights
 
-###  Global Job Market Intelligence Dashboard
-**SQL + Power BI**
+###  Global Job Market Intelligence Dashboard | SQL + Power BI
+
 **Link:** https://github.com/farukgani/Global-Job-Market-Intelligence-Dashboad.git
 * Analyzed large-scale job market data
 * Developed interactive dashboards
 * Identified trends across roles, skills, locations, and industries
 * Designed KPI-driven business intelligence reports
 
-###  Hospital Management Dashboard
-**Power BI**
+###  Hospital Management Dashboard | Power BI
+
 **Link:** https://github.com/farukgani/Hospital-Management-and-Healthcare-Analytics-Dashboard.git
 * Analyzed patient and hospital-related data
 * Created KPI cards and interactive visualizations
 * Developed reports to support data-driven decision-making
 
-###  Employee Workforce Analysis Dashboard
-**𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗘𝘅𝗰𝗲𝗹**
+###  Employee Workforce Analysis Dashboard | 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗘𝘅𝗰𝗲𝗹
+
 **Link:** https://github.com/farukgani/Employee-Workforce-Analytics-Dashboard-.git
 * Analyzed employee workforce and HR-related data
 * Created KPIs for employee count, attrition, departments, and job roles
