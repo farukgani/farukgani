@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Faruk Gani
+# Hello World, I'm Faruk Gani
 
 ### Data Analyst | Failure Analysis | Root Cause Analysis | Business Intelligence
 
@@ -8,44 +8,42 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 
 ---
 
-## 💼 About Me
+## About Me
 
-* 🔍 Experienced in **Failure Analysis & Root Cause Analysis**
-* 📊 Developing expertise in **Data Analytics & Business Intelligence**
-* 🗄️ Skilled in **SQL & MySQL**
-* 📈 Building interactive dashboards using **Power BI & Tableau**
-* 📑 Experienced with **Microsoft Excel & Data Visualization**
-* 🐍 Currently learning **Python for Data Analysis**
-* 🧠 Strong interest in **problem-solving and data-driven insights**
-* 🚀 Open to opportunities in **Data Analytics, Business Intelligence, and Failure Analysis**
+*  Experienced in **Failure Analysis & Root Cause Analysis**
+*  Developing expertise in **Data Analytics & Business Intelligence**
+*  Skilled in **SQL & MySQL**
+*  Building interactive dashboards using **Power BI & Tableau**
+*  Experienced with **Microsoft Excel & Data Visualization**
+*  Strong interest in **problem-solving and data-driven insights**
+*  Open to opportunities in **Data Analytics, Business Intelligence, and Failure Analysis**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analytics & BI
+### Data Analytics & BI
 
 `SQL` `Microsoft Excel` `Power BI` `Tableau` `DAX` `Power Query`
 
-### 💻 Programming
+###  Programming
 
 `Python` `C` `C++`
 
-### 🗄️ Database
+###  Database
 
 `MySQL` `SQL`
 
 
-### 🔍 Analysis
+###  Analysis
 
 `Failure Analysis` `Root Cause Analysis` `Problem Solving` `Data Analysis`
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🍔 Online Food Delivery Analytics
-
+###  Online Food Delivery Analytics
 **SQL + Power BI**
 
 * Analyzed customers, restaurants, orders, dishes, ratings, and locations
@@ -53,37 +51,31 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 * Used SQL for data extraction and analysis
 * Built DAX measures for business insights
 
-### 📊 Global Job Market Intelligence Dashboard
-
-**Power BI + Excel**
+###  Global Job Market Intelligence Dashboard
+**SQL + Power BI**
 
 * Analyzed large-scale job market data
 * Developed interactive dashboards
 * Identified trends across roles, skills, locations, and industries
 * Designed KPI-driven business intelligence reports
 
-### 🏥 Hospital Management Dashboard
-
-**Power BI + Excel**
+###  Hospital Management Dashboard
+**Power BI**
 
 * Analyzed patient and hospital-related data
 * Created KPI cards and interactive visualizations
 * Developed reports to support data-driven decision-making
 
----
+## 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗪𝗼𝗿𝗸𝗳𝗼𝗿𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
+** 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗘𝘅𝗰𝗲𝗹**
 
-## 📚 Skills & Knowledge
-
-* 🐍 Python for Data Analysis
-* 📊 Advanced Power BI & DAX
-* 🔄 Power Query
-* 🗄️ Advanced SQL
-* 📐 Data Modeling
-* 📈 Advanced Tableau
+* Analyzed employee workforce and HR-related data
+* Created KPIs for employee count, attrition, departments, and job roles
+* Developed interactive dashboards to identify workforce trends and support HR decision-making
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Failure Analysis Experience
 
@@ -101,16 +93,16 @@ This experience has strengthened my **analytical thinking, problem-solving, and 
 
 ---
 
-## 🎯 Career Objective
+##  Career Objective
 
 I am looking for opportunities where I can combine my experience in **Failure Analysis & Root Cause Analysis** with my growing expertise in **Data Analytics and Business Intelligence** to solve business problems and deliver meaningful insights.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-* 💼 **LinkedIn:** www.linkedin.com/in/faruk-gani-562056240
-* 🐙 **GitHub:** Add your GitHub profile URL
+**LinkedIn:** www.linkedin.com/in/faruk-gani-562056240
+
 
 ---
 
