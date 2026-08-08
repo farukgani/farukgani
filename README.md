@@ -53,7 +53,7 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 
 ###  Global Job Market Intelligence Dashboard
 **SQL + Power BI**
-
+**Link:**https://github.com/farukgani/Global-Job-Market-Intelligence-Dashboad.git
 * Analyzed large-scale job market data
 * Developed interactive dashboards
 * Identified trends across roles, skills, locations, and industries
@@ -61,14 +61,14 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 
 ###  Hospital Management Dashboard
 **Power BI**
-
+**Link:**https://github.com/farukgani/Hospital-Management-and-Healthcare-Analytics-Dashboard.git
 * Analyzed patient and hospital-related data
 * Created KPI cards and interactive visualizations
 * Developed reports to support data-driven decision-making
 
-## 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗪𝗼𝗿𝗸𝗳𝗼𝗿𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
+###  Employee Workforce Analysis Dashboard
 ** 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗘𝘅𝗰𝗲𝗹**
-
+**Link:**https://github.com/farukgani/Employee-Workforce-Analytics-Dashboard-.git
 * Analyzed employee workforce and HR-related data
 * Created KPIs for employee count, attrition, departments, and job roles
 * Developed interactive dashboards to identify workforce trends and support HR decision-making
