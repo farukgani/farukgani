@@ -41,7 +41,7 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 
 ---
 
-##  Featured Projects
+## 🏆 Featured Projects
 
 ###  Online Food Delivery Analytics | SQL + Power BI
 
