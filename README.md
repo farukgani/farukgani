@@ -25,19 +25,16 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 
 ### 📊 Data Analytics & BI
 
-`SQL` `Power BI` `Excel` `Tableau` `DAX` `Power Query`
+`SQL` `Microsoft Excel` `Power BI` `Tableau` `DAX` `Power Query`
 
 ### 💻 Programming
 
-`Python` `C` `C++` `Embedded C`
+`Python` `C` `C++`
 
 ### 🗄️ Database
 
 `MySQL` `SQL`
 
-### 🔧 Tools & Technologies
-
-`Git` `GitHub` `Linux` `Jenkins` `AWS`
 
 ### 🔍 Analysis
 
@@ -75,7 +72,7 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 
 ---
 
-## 📚 Currently Learning
+## 📚 Skills & Knowledge
 
 * 🐍 Python for Data Analysis
 * 📊 Advanced Power BI & DAX
@@ -112,10 +109,8 @@ I am looking for opportunities where I can combine my experience in **Failure An
 
 ## 🤝 Let's Connect
 
-* 💼 **LinkedIn:** Add your LinkedIn URL
-* 📧 **Email:** Add your email
+* 💼 **LinkedIn:** www.linkedin.com/in/faruk-gani-562056240
 * 🐙 **GitHub:** Add your GitHub profile URL
-* 📄 **Resume:** Add your resume URL
 
 ---
 
