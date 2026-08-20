@@ -150,8 +150,6 @@ I am looking for opportunities where I can combine my experience in **Failure An
 
 ### 🚀 *Learn • Analyze • Build • Improve*\
 -->
-# 👋 Hello World, I'm Faruk Gani
-
 ### 📊 Data Analyst | Business Intelligence | Failure Analysis
 
 <p align="center">
