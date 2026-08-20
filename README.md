@@ -360,15 +360,22 @@ Business Intelligence
 ---
 
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farukgani&show_icons=true&theme=default&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukgani&theme=default&hide_border=true" height="170" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukgani&layout=compact&hide_border=true" height="170" />
+<a href="https://github.com/farukgani">
+<img src="https://img.shields.io/github/followers/farukgani?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/farukgani?tab=repositories">
+<img src="https://img.shields.io/github/stars/farukgani?style=for-the-badge&logo=github&label=Stars" />
+</a>
+
+<a href="https://github.com/farukgani?tab=repositories">
+<img src="https://img.shields.io/github/repositories/farukgani?style=for-the-badge&logo=github&label=Repositories" />
+</a>
+
 </p>
 ---
 
