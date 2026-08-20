@@ -194,11 +194,11 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 # 🛠️ Technical Skills
 
 ## 📊 Data Analytics & Business Intelligence
-
+<!--
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
-
+-->
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -206,6 +206,7 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ## 💻 Programming
@@ -357,26 +358,6 @@ Python for Data Analysis
 Business Intelligence
 ```
 
----
-
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<a href="https://github.com/farukgani">
-<img src="https://img.shields.io/github/followers/farukgani?style=for-the-badge&logo=github&label=Followers" />
-</a>
-
-<a href="https://github.com/farukgani?tab=repositories">
-<img src="https://img.shields.io/github/stars/farukgani?style=for-the-badge&logo=github&label=Stars" />
-</a>
-
-<a href="https://github.com/farukgani?tab=repositories">
-<img src="https://img.shields.io/github/repositories/farukgani?style=for-the-badge&logo=github&label=Repositories" />
-</a>
-
-</p>
 ---
 
 # 🎯 Career Objective
