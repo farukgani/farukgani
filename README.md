@@ -189,7 +189,7 @@ I am a **Data Analytics enthusiast with professional experience in Failure Analy
 
 I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and Power Query** while developing practical projects using real-world datasets.
 
-# 🚀 What I Do
+## 🚀 What I Do
 
 <table>
 <table align="center">
