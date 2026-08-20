@@ -153,7 +153,7 @@ I am looking for opportunities where I can combine my experience in **Failure An
 ### 📊 Data Analyst | Business Intelligence | Failure Analysis
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072B1,100:00C6FF&height=180&section=header&text=Faruk%20Gani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072B1,100:00C6FF&height=220&section=header&text=Hello%2C%20I'm%20Faruk%20Gani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <!-- Tagline -->
