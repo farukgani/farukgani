@@ -191,15 +191,64 @@ I am a **Data Analytics enthusiast with professional experience in Failure Analy
 
 I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and Power Query** while developing practical projects using real-world datasets.
 
-### 🎯 What I Do
+# 🚀 What I Do
 
-* 📊 Analyze data and identify meaningful business insights
-* 🧮 Write SQL queries for data extraction and analysis
-* 📈 Build interactive dashboards using Power BI and Tableau
-* 🧹 Clean and transform data using Power Query and Excel
-* 🐍 Use Python for data analysis and visualization
-* 🔍 Perform Failure Analysis and Root Cause Analysis
-* 💡 Convert complex problems into data-driven solutions
+<table>
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📊 Data Analytics
+
+* Analyze structured datasets
+* Identify trends and patterns
+* Generate business insights
+* Perform exploratory analysis
+* Create KPI-driven reports
+
+</td>
+
+<td width="50%">
+
+### 📈 Business Intelligence
+
+* Build Power BI dashboards
+* Develop DAX measures
+* Design interactive reports
+* Create data-driven KPIs
+* Present insights visually
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ SQL & Databases
+
+* Write SQL queries
+* Data extraction
+* Joins & aggregations
+* CTEs & window functions
+* MySQL database analysis
+
+</td>
+
+<td width="50%">
+
+### 🔍 Problem Solving
+
+* Failure Analysis
+* Root Cause Analysis
+* Pattern identification
+* Troubleshooting
+* Data-driven problem solving
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
@@ -342,18 +391,21 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ## 🔧 Failure Analysis
 
-Professional experience in **Failure Analysis and Root Cause Analysis**, including:
+### Professional Experience
 
-* Failure data collection and analysis
-* Root Cause Analysis (RCA)
-* Identification of recurring failure patterns
-* Troubleshooting and problem-solving
-* Failure analysis reporting
-* Corrective and preventive action support
-* Testing and diagnostic tools
+My professional experience in **Failure Analysis and Root Cause Analysis** strengthened my ability to investigate problems, analyze failure patterns, and make data-driven decisions.
 
-This experience strengthened my **analytical thinking, problem-solving, troubleshooting, and data interpretation skills**, which I now apply to Data Analytics and Business Intelligence.
+### Key Areas
 
+* 📥 Failure data collection and analysis
+* 🔍 Root Cause Analysis
+* 📊 Failure pattern identification
+* 🛠️ Troubleshooting and problem solving
+* 📑 Failure analysis reporting
+* ♻️ Corrective and preventive action support
+* 🧪 Testing and diagnostic tools
+
+> **Failure Analysis → Problem Solving → Data Analysis → Business Intelligence**
 ---
 
 # 📈 My Analytics Journey
@@ -380,11 +432,17 @@ Business Intelligence
 
 ---
 
-# 🎯 Career Objective
+# 🎯 Career Focus
 
-I am looking for opportunities where I can combine my experience in **Failure Analysis & Root Cause Analysis** with my growing expertise in **Data Analytics and Business Intelligence**.
+I'm looking for opportunities where I can combine my background in **Failure Analysis & Root Cause Analysis** with my growing expertise in **Data Analytics and Business Intelligence**.
 
-My goal is to solve business problems using **data, analytical thinking, visualization, and technology**.
+### I'm particularly interested in roles involving:
+
+`Data Analytics` • `Business Intelligence` • `Power BI` • `SQL` • `Data Visualization` • `Business Reporting`
+
+My goal is simple:
+
+> **Turn complex data into clear insights that help businesses make better decisions.**\
 
 ---
 
@@ -393,11 +451,12 @@ My goal is to solve business problems using **data, analytical thinking, visuali
 <p align="center">
 
 <a href="https://www.linkedin.com/in/faruk-gani-562056240">
-<img src="https://img.shields.io/badge/LinkedIn-Faruk%20Gani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+ 
 
 <a href="https://github.com/farukgani">
-<img src="https://img.shields.io/badge/GitHub-farukgani-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
