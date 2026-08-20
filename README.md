@@ -19,7 +19,43 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 *  Open to opportunities in **Data Analytics, Business Intelligence, and Failure Analysis**
 
 ---
+## 🛠️ Skills
 
+### 📊 Data Analytics & BI
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+### 💻 Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 🔍 Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Failure%20Analysis-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-333333?style=for-the-badge" />
+</p>
+<!--
 ## 🛠️ Technical Skills
 
 ### Data Analytics & BI
@@ -40,7 +76,7 @@ I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python,
 `Failure Analysis` `Root Cause Analysis` `Problem Solving` `Data Analysis`
 
 ---
-
+-- >
 ## 🏆 Featured Projects
 
 ###  Online Food Delivery Analytics | SQL + Power BI
