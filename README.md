@@ -1,6 +1,6 @@
 # Hello World, I'm Faruk Gani
 
-### Data Analyst | Failure Analysis | Root Cause Analysis | Business Intelligence
+### Data Analyst | Business Intelligence
 
 I am a **Data Analytics enthusiast with professional experience in Failure Analysis and Root Cause Analysis**, focused on solving complex problems through structured analysis and data-driven decision-making.
 
