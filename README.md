@@ -254,7 +254,7 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 # 🛠️ Technical Skills
 
-## 📊 Data Analytics & Business Intelligence
+### 📊 Data Analytics & Business Intelligence
 <!--
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql" />
@@ -270,13 +270,13 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-## 💻 Programming
+### 💻 Programming
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
@@ -298,7 +298,7 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ---
 
-# 🚀 Featured Projects
+# 📁 Featured Projects
 
 ## 🍔 Online Food Delivery Analytics
 
