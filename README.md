@@ -255,7 +255,7 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ### SQL + Power BI
 
-<p align="center">
+<p>
   <a href="https://github.com/farukgani/Online-Food-Sales-Analysis-Dashboard">
     <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -277,7 +277,7 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ### SQL + Power BI
 
-<p align="center">
+<p>
   <a href="https://github.com/farukgani/Global-Job-Market-Intelligence-Dashboad">
     <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -299,7 +299,7 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ### Power BI
 
-<p align="center">
+<p>
   <a href="https://github.com/farukgani/Hospital-Management-and-Healthcare-Analytics-Dashboard">
     <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -320,7 +320,7 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ### Microsoft Excel
 
-<p align="center">
+<p>
   <a href="https://github.com/farukgani/Employee-Workforce-Analytics-Dashboard-">
     <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
