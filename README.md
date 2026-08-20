@@ -359,17 +359,17 @@ Business Intelligence
 
 ---
 
+
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farukgani&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukgani&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farukgani&show_icons=true&theme=default&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukgani&theme=default&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukgani&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukgani&layout=compact&hide_border=true" height="170" />
 </p>
-
 ---
 
 # 🎯 Career Objective
