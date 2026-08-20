@@ -255,9 +255,11 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ### SQL + Power BI
 
-<a href="https://github.com/farukgani/Online-Food-Sales-Analysis-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farukgani&repo=Online-Food-Sales-Analysis-Dashboard&theme=default" />
-</a>
+<p align="center">
+  <a href="https://github.com/farukgani/Online-Food-Sales-Analysis-Dashboard">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 **What I did:**
 
@@ -275,9 +277,11 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ### SQL + Power BI
 
-<a href="https://github.com/farukgani/Global-Job-Market-Intelligence-Dashboad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farukgani&repo=Global-Job-Market-Intelligence-Dashboad&theme=default" />
-</a>
+<p align="center">
+  <a href="https://github.com/farukgani/Global-Job-Market-Intelligence-Dashboad">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 **What I did:**
 
@@ -295,9 +299,11 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ### Power BI
 
-<a href="https://github.com/farukgani/Hospital-Management-and-Healthcare-Analytics-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farukgani&repo=Hospital-Management-and-Healthcare-Analytics-Dashboard&theme=default" />
-</a>
+<p align="center">
+  <a href="https://github.com/farukgani/Hospital-Management-and-Healthcare-Analytics-Dashboard">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 **What I did:**
 
@@ -314,9 +320,11 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 ### Microsoft Excel
 
-<a href="https://github.com/farukgani/Employee-Workforce-Analytics-Dashboard-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farukgani&repo=Employee-Workforce-Analytics-Dashboard-&theme=default" />
-</a>
+<p align="center">
+  <a href="https://github.com/farukgani/Employee-Workforce-Analytics-Dashboard-">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 **What I did:**
 
