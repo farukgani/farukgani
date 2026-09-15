@@ -247,7 +247,25 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 </table>
 
 ---
+# 💼 Professional Experience
 
+## 🔧 Failure Analysis
+
+### Professional Experience
+
+My professional experience in **Failure Analysis and Root Cause Analysis** strengthened my ability to investigate problems, analyze failure patterns, and make data-driven decisions.
+
+### Key Areas
+
+* 📥 Failure data collection and analysis
+* 🔍 Root Cause Analysis
+* 📊 Failure pattern identification
+* 🛠️ Troubleshooting and problem solving
+* 📑 Failure analysis reporting
+* ♻️ Corrective and preventive action support
+* 🧪 Testing and diagnostic tools
+
+> **Failure Analysis → Problem Solving → Data Analysis → Business Intelligence**
 ---
 
 # 🛠️ Technical Skills
@@ -383,27 +401,6 @@ I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and 
 
 **Tools:** `Microsoft Excel` `Power Query` `Data Analysis`
 
----
-
-# 💼 Professional Experience
-
-## 🔧 Failure Analysis
-
-### Professional Experience
-
-My professional experience in **Failure Analysis and Root Cause Analysis** strengthened my ability to investigate problems, analyze failure patterns, and make data-driven decisions.
-
-### Key Areas
-
-* 📥 Failure data collection and analysis
-* 🔍 Root Cause Analysis
-* 📊 Failure pattern identification
-* 🛠️ Troubleshooting and problem solving
-* 📑 Failure analysis reporting
-* ♻️ Corrective and preventive action support
-* 🧪 Testing and diagnostic tools
-
-> **Failure Analysis → Problem Solving → Data Analysis → Business Intelligence**
 ---
 
 # 📈 My Analytics Journey
