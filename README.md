@@ -1,474 +1,180 @@
-<!--# Hello World, I'm Faruk Gani
+# 👋 Hello, I'm Faruk Gani
 
-### Data Analyst | Business Intelligence
-
-I am a **Data Analytics enthusiast with professional experience in Failure Analysis and Root Cause Analysis**, focused on solving complex problems through structured analysis and data-driven decision-making.
-
-I am currently building my expertise in **SQL, Power BI, Excel, Tableau, Python, and Data Analytics**, while developing practical projects using real-world datasets.
-
----
-
-## About Me
-
-*  Experienced in **Failure Analysis & Root Cause Analysis**
-*  Developing expertise in **Data Analytics & Business Intelligence**
-*  Skilled in **SQL & MySQL**
-*  Building interactive dashboards using **Power BI & Tableau**
-*  Experienced with **Microsoft Excel & Data Visualization**
-*  Strong interest in **problem-solving and data-driven insights**
-*  Open to opportunities in **Data Analytics, Business Intelligence, and Failure Analysis**
-
----
-## 🛠️ Skills
-
-### 📊 Data Analytics & BI
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-### 💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### 🔍 Analysis
-
-<p>
-  <img src="https://img.shields.io/badge/Failure%20Analysis-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-333333?style=for-the-badge" />
-</p>
-<!--
-## 🛠️ Technical Skills
-
-### Data Analytics & BI
-
-`SQL` `Microsoft Excel` `Power BI` `Tableau` `DAX` `Power Query`
-
-###  Programming
-
-`Python` `C` `C++`
-
-###  Database
-
-`MySQL` `SQL`
-
-
-###  Analysis
-
-`Failure Analysis` `Root Cause Analysis` `Problem Solving` `Data Analysis`
-
----
--- >
-## 🏆 Featured Projects
-
-###  Online Food Delivery Analytics | SQL + Power BI
-
-**Project Link:** https://github.com/farukgani/Online-Food-Sales-Analysis-Dashboard.git
-* Analyzed customers, restaurants, orders, dishes, ratings, and locations
-* Created interactive dashboards with KPIs and performance metrics
-* Used SQL for data extraction and analysis
-* Built DAX measures for business insights
-
-###  Global Job Market Intelligence Dashboard | SQL + Power BI
-
-**Project Link:** https://github.com/farukgani/Global-Job-Market-Intelligence-Dashboad.git
-* Analyzed large-scale job market data
-* Developed interactive dashboards
-* Identified trends across roles, skills, locations, and industries
-* Designed KPI-driven business intelligence reports
-
-###  Hospital Management Dashboard | Power BI
-
-**Project Link:** https://github.com/farukgani/Hospital-Management-and-Healthcare-Analytics-Dashboard.git
-* Analyzed patient and hospital-related data
-* Created KPI cards and interactive visualizations
-* Developed reports to support data-driven decision-making
-
-###  Employee Workforce Analysis Dashboard | 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗘𝘅𝗰𝗲𝗹
-
-**Project Link:** https://github.com/farukgani/Employee-Workforce-Analytics-Dashboard-.git
-* Analyzed employee workforce and HR-related data
-* Created KPIs for employee count, attrition, departments, and job roles
-* Developed interactive dashboards to identify workforce trends and support HR decision-making
-
----
-
-##  Professional Experience
-
-### Failure Analysis Experience
-
-Worked in **Failure Analysis**, focusing on:
-
-* Failure data collection and analysis
-* Root Cause Analysis (RCA)
-* Identifying recurring failure patterns
-* Troubleshooting and problem-solving
-* Preparing failure analysis reports
-* Supporting corrective and preventive actions
-* Working with testing and diagnostic tools
-
-This experience has strengthened my **analytical thinking, problem-solving, and data interpretation skills**, which I now apply to Data Analytics and Business Intelligence.
-
----
-
-##  Career Objective
-
-I am looking for opportunities where I can combine my experience in **Failure Analysis & Root Cause Analysis** with my growing expertise in **Data Analytics and Business Intelligence** to solve business problems and deliver meaningful insights.
-
----
-
-##  Let's Connect
-
-**LinkedIn:** www.linkedin.com/in/faruk-gani-562056240
-
-
----
-
-## ⚡ Fun Fact
-
-> **I enjoy turning complex problems into data-driven solutions.** 📊
-
----
-
-### 🚀 *Learn • Analyze • Build • Improve*\
--->
-### 📊 Data Analyst | Business Intelligence | Failure Analysis
+### 📊 Data Analyst | Business Intelligence | SQL | Power BI
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072B1,100:00C6FF&height=220&section=header&text=Hello%2C%20I'm%20Faruk%20Gani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072B1,100:00C6FF&height=220&section=header&text=Hello%2C%20I'm%20Faruk%20Gani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- Tagline -->
 <p align="center">
-  <h3 align="center">📊 Turning Data into Insights • Building Dashboards • Solving Business Problems</h3>
+  <b>Turning Data into Insights • Building Dashboards • Supporting Data-Driven Decisions</b>
 </p>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/faruk-gani-562056240">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://github.com/farukgani">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<!-- Skills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+---
+
+## 👨‍💻 Professional Summary
+
+Data Analyst with **1+ year of professional experience at Foxconn Technology India Pvt. Ltd.**, specializing in data validation, root cause analysis, trend analysis, and KPI reporting in a manufacturing environment. Skilled in **SQL, Microsoft Excel, Power BI, and Python** for data cleaning, data transformation, analytical reporting, and dashboard development. Experienced in hands-on projects across sales, workforce, healthcare, and job-market analytics, transforming data into meaningful visualizations and actionable insights. Seeking Data Analyst opportunities to apply analytical and problem-solving skills to support data-driven decision-making.
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Technical Skills
 
-I am a **Data Analytics enthusiast with professional experience in Failure Analysis and Root Cause Analysis**, focused on solving complex problems through structured analysis and data-driven decision-making.
+### 📊 Data Analysis
+- Data Cleaning, Data Validation, Data Preprocessing, Data Transformation
+- Exploratory Data Analysis (EDA), Trend Analysis, KPI Analysis
+- Root Cause Analysis (RCA), Business Reporting, Data Interpretation
 
-I am building my expertise in **SQL, Power BI, Excel, Tableau, Python, DAX, and Power Query** while developing practical projects using real-world datasets.
+### 📈 Business Intelligence & Visualization
+- Power BI, Power Query, DAX, Data Modeling
+- Measures, Calculated Columns, KPI Cards
+- Interactive Dashboards, Slicers, Drill-Down, Data Visualization
+- Tableau
 
-## 🚀 What I Do
+### 🗄️ Databases & SQL
+- SQL, MySQL
+- Joins, Subqueries, Common Table Expressions (CTEs)
+- Window Functions, Aggregate Functions
+- GROUP BY, HAVING, Data Extraction and Analysis
 
-<table>
-<table align="center">
-<tr>
-<td width="50%">
-
-### 📊 Data Analytics
-
-* Analyze structured datasets
-* Identify trends and patterns
-* Generate business insights
-* Perform exploratory analysis
-* Create KPI-driven reports
-
-</td>
-
-<td width="50%">
-
-### 📈 Business Intelligence
-
-* Build Power BI dashboards
-* Develop DAX measures
-* Design interactive reports
-* Create data-driven KPIs
-* Present insights visually
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗄️ SQL & Databases
-
-* Write SQL queries
-* Data extraction
-* Joins & aggregations
-* CTEs & window functions
-* MySQL database analysis
-
-</td>
-
-<td width="50%">
-
-### 🔍 Problem Solving
-
-* Failure Analysis
-* Root Cause Analysis
-* Pattern identification
-* Troubleshooting
-* Data-driven problem solving
-
-</td>
-</tr>
-</table>
-
----
-
-# 💼 Professional Experience
-
-## 🔧 Failure Analysis
-
-### Professional Experience
-
-My professional experience in **Failure Analysis and Root Cause Analysis** strengthened my ability to investigate problems, analyze failure patterns, and make data-driven decisions.
-
-### Key Areas
-
-* 📥 Failure data collection and analysis
-* 🔍 Root Cause Analysis
-* 📊 Failure pattern identification
-* 🛠️ Troubleshooting and problem solving
-* 📑 Failure analysis reporting
-* ♻️ Corrective and preventive action support
-* 🧪 Testing and diagnostic tools
-
-> **Failure Analysis → Problem Solving → Data Analysis → Business Intelligence**
-
----
-
-# 🛠️ Technical Skills
-
-### 📊 Data Analytics & Business Intelligence
-<!--
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
--->
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+### 📑 Microsoft Excel
+- Advanced Excel, PivotTables, Pivot Charts
+- XLOOKUP, VLOOKUP, INDEX-MATCH
+- Conditional Formatting, Charts, Data Validation
+- Data Cleaning and Reporting
 
 ### 💻 Programming
+- Python, C, C++
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
-
-### 🗄️ Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-Database%20Analysis-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-## 🔍 Analysis
-
-<p align="center">
-<img src="https://img.shields.io/badge/Failure%20Analysis-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Root%20Cause%20Analysis-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-333333?style=for-the-badge"/>
-</p>
+### 🔧 Tools
+- Jupyter Notebook, GitHub, Microsoft Office
 
 ---
 
-# 📁 Featured Projects
+## 💼 Professional Experience
 
-## 🍔 Online Food Delivery Analytics
+### Data Analyst | Foxconn Technology India Pvt. Ltd.
+**Bangalore, India | May 2024 – June 2025**
 
-### SQL + Power BI
-
-<p>
-  <a href="https://github.com/farukgani/Online-Food-Sales-Analysis-Dashboard">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-**What I did:**
-
-* Analyzed customers, restaurants, orders, dishes, ratings, and locations
-* Used SQL for data extraction and analysis
-* Created DAX measures for business KPIs
-* Built an interactive Power BI dashboard
-* Identified customer, restaurant, and sales trends
-
-**Tools:** `SQL` `MySQL` `Power BI` `DAX` `Power Query`
+- Analyzed product failure data using Microsoft Excel to identify recurring defects, failure patterns, and quality trends.
+- Performed Root Cause Analysis (RCA) on manufacturing and product failures to investigate underlying issues and support corrective actions.
+- Prepared Excel reports and charts to monitor defect trends, summarize findings, and communicate insights to engineering and quality teams.
+- Collected, organized, cleaned, and validated product failure data to improve data accuracy and reporting reliability.
+- Analyzed manufacturing trends and failure patterns to identify potential quality issues and support process improvement initiatives.
+- Applied analytical thinking, data interpretation, and structured problem-solving to support quality monitoring and operational decision-making.
 
 ---
 
-## 💼 Global Job Market Intelligence Dashboard
+## 📁 Featured Projects
 
-### SQL + Power BI
+### 🍔 1. Online Food Sales Analysis Dashboard
+**SQL | MySQL | Power BI | DAX | Power Query**
 
-<p>
-  <a href="https://github.com/farukgani/Global-Job-Market-Intelligence-Dashboad">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/farukgani/Online-Food-Sales-Analysis-Dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**What I did:**
+- Analyzed customer, restaurant, order, dish, rating, and location data.
+- Used SQL and MySQL to query and analyze sales-related information.
+- Developed interactive Power BI dashboards to monitor business KPIs and sales performance.
+- Created DAX measures to evaluate order trends, revenue, ratings, and completion status.
+- Identified business trends to support data-driven decision-making.
 
-* Analyzed job market data
-* Studied roles, skills, locations, and industries
-* Created KPI-driven dashboards
-* Identified hiring trends and demand for skills
-* Presented insights through interactive visualizations
+### 💼 2. Global Job Market Intelligence Dashboard
+**Power BI | SQL | DAX | Power Query**
 
-**Tools:** `SQL` `Power BI` `DAX` `Power Query`
+<a href="https://github.com/farukgani/Global-Job-Market-Intelligence-Dashboad">
+  <img src="https://img.shields.io/badge/View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+- Analyzed global job-market data to understand hiring demand across roles, skills, and locations.
+- Built interactive dashboards for job openings, salary intelligence, and skill-demand analysis.
+- Used data modeling, Power Query, and DAX to transform data and develop analytical measures.
+- Identified job-market trends to communicate insights through interactive visualizations.
 
-## 🏥 Hospital Management Dashboard
+### 🏥 3. Hospital Management & Healthcare Analytics Dashboard
+**Power BI | Excel | DAX**
 
-### Power BI
+<a href="https://github.com/farukgani/Hospital-Management-and-Healthcare-Analytics-Dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://github.com/farukgani/Hospital-Management-and-Healthcare-Analytics-Dashboard">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- Analyzed hospital operational data related to patients, doctors, appointments, medicines, and billing.
+- Developed interactive Power BI dashboards with KPI cards and visual reports.
+- Presented healthcare operational metrics to support performance monitoring and data-driven decisions.
 
-**What I did:**
+### 👥 4. Employee Workforce Analytics Dashboard
+**Microsoft Excel | PivotTables | Pivot Charts**
 
-* Analyzed patient and hospital-related data
-* Created KPI cards and interactive visualizations
-* Analyzed healthcare performance metrics
-* Developed reports for data-driven decision-making
+<a href="https://github.com/farukgani/Employee-Workforce-Analytics-Dashboard-">
+  <img src="https://img.shields.io/badge/View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Tools:** `Power BI` `Excel` `DAX`
-
----
-
-## 👥 Employee Workforce Analytics
-
-### Microsoft Excel
-
-<p>
-  <a href="https://github.com/farukgani/Employee-Workforce-Analytics-Dashboard-">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-**What I did:**
-
-* Analyzed employee workforce data
-* Created KPIs for employee count and attrition
-* Analyzed departments and job roles
-* Identified workforce trends
-* Built an interactive Excel dashboard
-
-**Tools:** `Microsoft Excel` `Power Query` `Data Analysis`
+- Developed an interactive Excel dashboard to analyze employee workforce and HR data.
+- Created KPIs for employee count, attrition, departments, and job roles.
+- Used PivotTables, Pivot Charts, slicers, and timelines to explore workforce trends.
+- Presented HR insights through structured reports and visualizations.
 
 ---
 
-# 📈 My Analytics Journey
+## 📈 My Data Analytics Workflow
 
 ```text
-Failure Analysis
-       ↓
-Root Cause Analysis
-       ↓
-Problem Solving
-       ↓
-SQL & Data Analysis
-       ↓
-Excel & Power Query
-       ↓
-Power BI & DAX
-       ↓
-Tableau
-       ↓
-Python for Data Analysis
-       ↓
-Business Intelligence
+Data Collection
+      ↓
+Data Cleaning & Validation
+      ↓
+SQL Queries & Data Transformation
+      ↓
+Exploratory Data Analysis (EDA)
+      ↓
+KPI Analysis & Trend Identification
+      ↓
+Power BI / Excel Dashboards
+      ↓
+Insights & Business Reporting
 ```
 
 ---
 
-# 🎯 Career Focus
+## 🎯 Career Focus
 
-I'm looking for opportunities where I can combine my background in **Failure Analysis & Root Cause Analysis** with my growing expertise in **Data Analytics and Business Intelligence**.
+I am interested in opportunities such as:
 
-### I'm particularly interested in roles involving:
+- Data Analyst
+- Junior Data Analyst
+- SQL Analyst
+- Business Intelligence Analyst
+- Power BI Developer
 
-`Data Analytics` • `Business Intelligence` • `Power BI` • `SQL` • `Data Visualization` • `Business Reporting`
-
-My goal is simple:
-
-> **Turn complex data into clear insights that help businesses make better decisions.**\
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/faruk-gani-562056240">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
- 
-
-<a href="https://github.com/farukgani">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+My goal is to transform raw data into meaningful insights, create effective dashboards, and help organizations make informed business decisions.
 
 ---
 
-## ⚡ Fun Fact
-
-> **I enjoy turning complex problems into data-driven solutions.** 📊
+## 🤝 Let's Connect
 
 <p align="center">
-  <b>🚀 Learn • Analyze • Build • Improve</b>
+  <a href="https://www.linkedin.com/in/faruk-gani-562056240">
+    <img src="https://img.shields.io/badge/LinkedIn-Faruk%20Gani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/farukgani">
+    <img src="https://img.shields.io/badge/GitHub-farukgani-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072B1,100:00C6FF&height=100&section=footer"/>
+  <b>🚀 Analyze • Visualize • Discover • Improve</b>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072B1,100:00C6FF&height=100&section=footer" width="100%"/>
+</p>
